@@ -26,6 +26,7 @@
     "gulp-uglify": "^3.0.0",
     "jquery": "^3.3.1",
     "jquery.stellar": "^0.6.2",
+    "popper": "^1.0.1",
     "slick-carousel": "^1.8.1",
     "tether": "^1.4.4"
   }
